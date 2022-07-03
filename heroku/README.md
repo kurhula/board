@@ -38,3 +38,4 @@ Make sure Heroku CLI is installed. If not, run ```bash scripts/heroku/install_he
 * https://devcenter.heroku.com/articles/heroku-cli
 * https://docs.microsoft.com/en-us/windows/wsl/tutorials/wsl-containers
 * https://docs.docker.com/compose/reference/
+* [container-registry-and-runtime](https://devcenter.heroku.com/articles/container-registry-and-runtime)
